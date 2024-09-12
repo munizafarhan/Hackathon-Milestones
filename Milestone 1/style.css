@@ -1,0 +1,64 @@
+body { 
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f4f4f4;
+
+}
+h1 {
+    text-align: center;
+    color: black);
+}
+form {
+    max-width: 600px;
+    margin: auto;
+    background-color:rgb(21, 150, 143);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(122, 124, 22, 0.5);
+    padding: 20px;
+}
+fieldset{
+
+    border: 2px solid rgb(133, 83, 27);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: black
+
+}
+legend{
+
+    font-weight: bold;
+    text-align: left;
+    color: wheat;
+}
+label{
+    display: block;
+    margin-top:10px ;
+    color: white;
+
+}
+input{
+    width: calc(100% -1px);
+    padding:8px;
+    margin-top: 4px;
+    border: 1px solid #0f9790;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+button{
+    display: block;
+    width: 36pc;
+    padding: 10px;
+    background-color: rgb(44, 92, 100);
+    color: black;
+    border: name;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button:hover{
+    background-color: rgb(55, 165, 11);
+}
